@@ -1,7 +1,6 @@
 pandas
-<<<<<<< HEAD
 numpy
 matplotlib
-=======
 numpy
->>>>>>> 25edeee6820092fd4ddf5bee22449ed3368bdc2a
+helium
+h3
